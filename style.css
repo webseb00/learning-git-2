@@ -10,3 +10,10 @@ body {
    background-color: #f2f3f4;
    color: #000000;
 }
+
+.container {
+   width: 100%;
+   max-width: 768px;
+   margin: 0 auto;
+   text-align: center;
+}
